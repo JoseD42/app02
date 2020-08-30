@@ -2,14 +2,6 @@ body{
     background-color: #fffff8;
 }
 
-#pokemon-image{
-    width: 10%;
-}
-
-.pokemonImage{
-    border: solid;
-}
-
 h1{
     text-shadow: 2px 2px 4px #000000;
     background-color: dodgerblue;
